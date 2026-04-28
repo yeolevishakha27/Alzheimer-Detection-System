@@ -72,17 +72,17 @@ It provides:
 ---
 
 ### 🔹 Dashboard
-![Dashboard](./dashboard.jpeg)
+![Dashboard](./Dashboard.jpeg)
 
 ---
 
 ### 🔹 MRI Scan Upload & Result
-![Scan](./scan.jpeg)
+![Scan](./Scan.jpeg)
 
 ---
 
 ### 🔹 Diagnosis Result
-![Result](./result.jpeg)
+![Result](./Result.jpeg)
 
 ---
 
