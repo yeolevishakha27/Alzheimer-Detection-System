@@ -62,37 +62,37 @@ It provides:
 ## 📸 Screenshots
 
 ### 🔹 Home Page
-![Home](./images/home.jpeg)
+![Home](./home.jpeg)
 
 ---
 
 ### 🔹 Login Page
-![Login](./images/login.jpeg)
+![Login](./login.jpeg)
 
 ---
 
 ### 🔹 Dashboard
-![Dashboard](./images/dashboard.jpeg)
+![Dashboard](./dashboard.jpeg)
 
 ---
 
 ### 🔹 MRI Scan Upload & Result
-![Scan](./images/scan.jpeg)
+![Scan](./scan.jpeg)
 
 ---
 
 ### 🔹 Diagnosis Result
-![Result](./images/result.jpeg)
+![Result](./result.jpeg)
 
 ---
 
 ### 🔹 Recommendations & Therapy
-![Therapy](./images/therapy.jpeg)
+![Therapy](./Therapy.jpeg)
 
 ---
 
 ### 🔹 Scan Details Page
-![Details](./images/details.jpeg)
+![Details](./details.jpeg)
 
 ---
 
