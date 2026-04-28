@@ -92,7 +92,7 @@ It provides:
 ---
 
 ### 🔹 Scan Details Page
-![Details](./details.jpeg)
+![Details](./Details.jpeg)
 
 ---
 
